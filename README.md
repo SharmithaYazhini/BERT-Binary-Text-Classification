@@ -19,7 +19,7 @@ Using BERT uncased to classify text as NLP or Non-NLP
 
 ### Results:
 
-![image](https://github.com/SharmithaYazhini/BERT-Binary-Text-Classification/assets/104150250/7ac7ca83-d209-4a45-be0a-8660b7020e24)
+![image](https://github.com/SharmithaYazhini/BERT-Binary-Text-Classification/assets/104150250/3d997183-daf5-49e1-bab7-74df18abe8d5)
 
 ### To predict:
 
